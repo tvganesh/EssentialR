@@ -1,0 +1,43 @@
+---
+title: "R Markdown Tutorial"
+output: html_document
+date: March 10,2017
+name: Tinniam V Ganesh (tv_ganesh@in.ibm.com)
+---
+
+# R Markdown - This is heading 1
+## Having 2 '##' is heading 2
+### This is heading 3
+
+R Markdown files have the extension *.Rmd
+
+With R Markdown you can create quick and easy reports with embedded R executable code as below
+```{r}
+library(ggplot2)
+head(mtcars)
+dim(mtcars)
+```
+
+**This is how you make bold statements by enclosing with 2 stars** 
+
+*You can also plot the following *
+
+```{r}
+ggplot(mtcars, aes(factor(cyl), mpg)) + geom_boxplot(aes(fill = factor(cyl))) +
+  xlab("No of cylinders") + ylab("Miles per gallon") +
+  ggtitle("Miles per gallon vs No of cylinders")
+
+```
+
+This is how to create a bulleted list
+
+- Bullet 1
+- Bullet 2
+- Bullet 3
+
+or
+
+1. Bullet 1
+2. Bullet 2
+3. Bullet 3
+

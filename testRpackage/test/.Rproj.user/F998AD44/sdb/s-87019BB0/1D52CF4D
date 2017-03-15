@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "sum <- function(a,b){\n  c <- a+b\n  c\n}\n",
+    "created" : 1489140865976.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3520455185",
+    "id" : "1D52CF4D",
+    "lastKnownWriteTime" : 1489140890,
+    "last_content_update" : 1489140890225,
+    "path" : "C:/junk/test/R/sum.R",
+    "project_path" : "R/sum.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

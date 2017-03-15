@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "\\name{sum}\n\\alias{sum}\n\\title{Adds 2 numbers}\n\\usage{\nsum(a,b)\n}\n\\arguments{\n\\item{a}{1st number}\n\\item{b}{2nd number}\n}\n\\value{\nsum\n}\n\\description{\nThis function adds any 2 numbers\n}\n\\note{\nMaintainer: A. Clever Guy\\email{clever.guy@gmail.com}\n}\n\\examples{\nsum(5,3)\n}\n}\n\\author{\nA. Clever Guy\n}\n\\references{\n\n}\n",
+    "created" : 1489140947721.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "943586784",
+    "id" : "B048EF28",
+    "lastKnownWriteTime" : 1489141197,
+    "last_content_update" : 1489141197425,
+    "path" : "C:/junk/test/man/sum.Rd",
+    "project_path" : "man/sum.Rd",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}

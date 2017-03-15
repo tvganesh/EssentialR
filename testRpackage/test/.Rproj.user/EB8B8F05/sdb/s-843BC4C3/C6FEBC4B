@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "Package: test\nType: Package\nTitle: This is a test package\nVersion: 0.1.0\nAuthor: Who wrote it\nMaintainer: A Clever Guy <aclever.guy@gmail.com>\nDescription: This package can be used for adding 2 numbers\nLicense: MIT License\nEncoding: UTF-8\nLazyData: true\n",
+    "created" : 1489579798622.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3465981616",
+    "id" : "C6FEBC4B",
+    "lastKnownWriteTime" : 1489579574,
+    "last_content_update" : 1489579574,
+    "path" : "C:/Users/Ganesh/Downloads/essentialR/testRpackage/test/DESCRIPTION",
+    "project_path" : "DESCRIPTION",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "dcf"
+}

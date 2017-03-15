@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "Package: test\nType: Package\nTitle: This is a test package\nVersion: 0.1.0\nAuthor: Who wrote it\nMaintainer: A Clever Guy <aclever.guy@gmail.com>\nDescription: This package can be used for adding 2 numbers\nLicense: MIT License\nEncoding: UTF-8\nLazyData: true\n",
+    "created" : 1489140576259.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3465981616",
+    "id" : "BB062ED8",
+    "lastKnownWriteTime" : 1489141243,
+    "last_content_update" : 1489141243783,
+    "path" : "C:/junk/test/DESCRIPTION",
+    "project_path" : "DESCRIPTION",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "dcf"
+}
